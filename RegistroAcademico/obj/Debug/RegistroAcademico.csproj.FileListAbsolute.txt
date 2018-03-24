@@ -1,0 +1,148 @@
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\RegistroAcademico.dll.config
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\RegistroAcademico.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\RegistroAcademico.pdb
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\EntityFramework.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Owin.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\WebGrease.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\EntityFramework.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\obj\Debug\RegistroAcademico.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\obj\Debug\RegistroAcademico.dll
+C:\Users\Estudiante\Documents\trabajo registros academicos\RegistroAcademico\RegistroAcademico\obj\Debug\RegistroAcademico.pdb
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\RegistroAcademico.dll.config
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\RegistroAcademico.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\RegistroAcademico.pdb
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Antlr3.Runtime.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\EntityFramework.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\EntityFramework.SqlServer.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Google.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Web.Infrastructure.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Newtonsoft.Json.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Owin.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Helpers.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Mvc.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Optimization.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Razor.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Deployment.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Razor.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\WebGrease.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Helpers.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Mvc.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Optimization.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.Razor.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Deployment.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\System.Web.WebPages.Razor.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Antlr3.Runtime.pdb
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Newtonsoft.Json.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\EntityFramework.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\EntityFramework.SqlServer.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Google.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Helpers.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Mvc.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Optimization.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.Razor.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.WebPages.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\EntityFramework.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\EntityFramework.SqlServer.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\obj\Debug\RegistroAcademico.csprojResolveAssemblyReference.cache
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\obj\Debug\RegistroAcademico.dll
+D:\LAVTrabajo1InfAvanzada\RegistroAcademico\RegistroAcademico\obj\Debug\RegistroAcademico.pdb
